@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "crypto_obj", "crypto_obj\crypto_obj.vcxproj", "{4F483C80-B764-4284-81EA-6A17384503F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crypto_dll_net", "crypto_dll_net\crypto_dll_net.csproj", "{FF4490BC-853C-455B-9F26-FAA8F59774CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F483C80-B764-4284-81EA-6A17384503F3}.Debug|x64.ActiveCfg = Debug|x64
+		{4F483C80-B764-4284-81EA-6A17384503F3}.Debug|x64.Build.0 = Debug|x64
+		{4F483C80-B764-4284-81EA-6A17384503F3}.Debug|x86.ActiveCfg = Debug|Win32
+		{4F483C80-B764-4284-81EA-6A17384503F3}.Debug|x86.Build.0 = Debug|Win32
+		{4F483C80-B764-4284-81EA-6A17384503F3}.Release|x64.ActiveCfg = Release|x64
+		{4F483C80-B764-4284-81EA-6A17384503F3}.Release|x64.Build.0 = Release|x64
+		{4F483C80-B764-4284-81EA-6A17384503F3}.Release|x86.ActiveCfg = Release|Win32
+		{4F483C80-B764-4284-81EA-6A17384503F3}.Release|x86.Build.0 = Release|Win32
+		{FF4490BC-853C-455B-9F26-FAA8F59774CF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FF4490BC-853C-455B-9F26-FAA8F59774CF}.Debug|x64.Build.0 = Debug|Any CPU
+		{FF4490BC-853C-455B-9F26-FAA8F59774CF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FF4490BC-853C-455B-9F26-FAA8F59774CF}.Debug|x86.Build.0 = Debug|Any CPU
+		{FF4490BC-853C-455B-9F26-FAA8F59774CF}.Release|x64.ActiveCfg = Release|Any CPU
+		{FF4490BC-853C-455B-9F26-FAA8F59774CF}.Release|x64.Build.0 = Release|Any CPU
+		{FF4490BC-853C-455B-9F26-FAA8F59774CF}.Release|x86.ActiveCfg = Release|Any CPU
+		{FF4490BC-853C-455B-9F26-FAA8F59774CF}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
