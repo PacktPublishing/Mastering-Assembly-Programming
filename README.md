@@ -9,7 +9,7 @@ This is the code repository for [Mastering Assembly Programming](https://www.pac
 ## What is this book about?
 The Assembly language is the lowest level human readable programming language on any platform. Knowing the way things are on the Assembly level will help developers design their code in a much more elegant and efficient way. It may be produced by compiling source code from a high-level programming language (such as C/C++) but can also be written from scratch. Assembly code can be converted to machine code using an assembler.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Obtain deeper understanding of the underlying platform
 * Understand binary arithmetic and logic operations
 * Create elegant and efficient code in Assembly language
