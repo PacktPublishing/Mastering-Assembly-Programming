@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/mastering-assembly-programming/9781787287488)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1787287483).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Mastering Assembly Programming
 
 <a href="https://www.packtpub.com/application-development/mastering-assembly-programming?utm_source=github&utm_medium=repository&utm_campaign=9781787287488"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B07085.png" alt="Mastering Assembly Programming" height="256px" align="right"></a>
